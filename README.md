@@ -2,8 +2,8 @@
 <a href="https://dscvit.com">
 	<img src="https://user-images.githubusercontent.com/30529572/92081025-fabe6f00-edb1-11ea-9169-4a8a61a5dd45.png" alt="DSC VIT"/>
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > <h4>
+	<h2 align="center"> Cloud My Tweets </h2>
+	<h4 align="center"> A Twitter bot that generates wordcloud using thread of that tweet <h4>
 </p>
 
 ---
@@ -12,10 +12,10 @@
 
 
 ## Functionalities
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
+- [ ] Twitter Bot
+- [ ] Generate word cloud
+- [ ] Show more tweets on relevant hashtags
+- [ ] Show Highlighted Words in Thread
 
 <br>
 
@@ -45,7 +45,9 @@
 
 <td>
 
-John Doe
+Kushal
+
+(Developer and Ideator)
 
 <p align="center">
 <img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
@@ -61,7 +63,9 @@ John Doe
 
 <td>
 
-John Doe
+Ananya
+
+(Ideator)
 
 <p align="center">
 <img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
@@ -78,7 +82,9 @@ John Doe
 
 <td>
 
-John Doe
+Siddhartha
+
+(Ideator)
 
 <p align="center">
 <img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
@@ -90,6 +96,24 @@ John Doe
 </a>
 </p>
 </td>
+
+<td>
+
+Deepak
+
+(Ideator)
+
+<p align="center">
+<img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+</p>
+<p align="center">
+<a href = "https://github.com/person2"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/></a>
+<a href = "https://www.linkedin.com/in/person2">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+</a>
+</p>
+</td>
+
 </tr>
   </table>
 
